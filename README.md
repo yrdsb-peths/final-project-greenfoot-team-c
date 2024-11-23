@@ -1,20 +1,8 @@
-# Set up Greenfoot for VSCode
+设计初步思路：
+类型：闯关
+风格：像素
+是否有字幕：不需要
+人物对话：无
 
-[Mac]
-1. Open `Finder` and navigate to the Applications folder.
-2. Right-click on the Greenfoot app and select `Show Package Contents`.
-3. In the opened folder, go to `Contents -> Resources -> Java` and find the `greenfoot.jar` file.
-4. Copy this `greenfoot.jar` to the `/lib` Folder in this project.
-
-[Windows]
-1. Open `File Explorer` and navigate to `C:\Program Files\Greenfoot` and locate the `greenfoot.jar` file.
-2. Copy this `greenfoot.jar` to the `\lib` Folder in this project.
-
-<br>
-<br>
-
-# project.greenfoot
-Copy the `project.greenfoot.md` file and rename it to `project.greenfoot`
-
-# Learn Markdown Basics
-[Markdown basics](https://www.markdownguide.org/getting-started/)
+主题剧情：一个机器人从废品堆中醒来，穿过了堆积成山的废品和大街小巷，跨越沙暴来到了坐标指引的位置，却被人拿走电池放进了MP3
+音乐：废土世界风格的BGM，沙漠风格的激情曲调
