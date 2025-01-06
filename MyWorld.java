@@ -11,7 +11,7 @@ public class MyWorld extends World {
     }
     
     public void start() {
-        Greenfoot.setWorld(new FirstLevel());
+        Greenfoot.setWorld(new gameWorld());
         
     }
 }
