@@ -1,4 +1,4 @@
-**.class
-**.ctxt
-project.greenfoot
-**/greenfoot.jar
+git add -f *.ctxt project.greenfoot
+git commit -m "Greenfoot"
+git push
+
