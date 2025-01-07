@@ -20,8 +20,8 @@ public class Button extends Actor
     public Button(Runnable action, String text) {
         this.action = action;
         this.text = text;
-        // GreenfootImage image = new GreenfootImage(text, 24, Color.BLACK, Color.WHITE);
-        // setImage(image);
+        GreenfootImage image = new GreenfootImage(text, 24, Color.BLACK, Color.WHITE);
+        setImage(image);
     }
     
     public Button() {
