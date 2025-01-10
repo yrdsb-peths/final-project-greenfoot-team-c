@@ -1,7 +1,7 @@
 #Greenfoot project file
 class.MyWorld.image=background.jpg
 class.Robot.image=Robot.png
-class.gameWorld.image=man01.png
+class.gameWorld.image=pixel.png
 dependency1.from=gameWorld
 dependency1.to=Robot
 dependency1.type=UsesDependency
