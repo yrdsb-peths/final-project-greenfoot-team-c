@@ -19,9 +19,9 @@ public class gameWorld extends World
      */
     public gameWorld()
     {    
-        super(600, 400, 1);
-        //GreenfootImage bg = new GreenfootImage("Background.png");
-        GreenfootImage bg = new GreenfootImage("pixel.png");
+        super(1000, 600, 1);
+        GreenfootImage bg = new GreenfootImage("Background.png");
+        //GreenfootImage bg = new GreenfootImage("pixel.png");
         bg.scale(getWidth(), getHeight());
         setBackground(bg);
         

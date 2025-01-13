@@ -23,19 +23,19 @@ public class Robot extends Actor
         // Add your action code here.
         if(Greenfoot.isKeyDown("left"))
         {
-            setLocation(getX() - 8, getY());
+            setLocation(getX() - 3, getY());
             
         }
         if(Greenfoot.isKeyDown("right"))
         {
-            setLocation(getX() + 8, getY());
+            setLocation(getX() + 3, getY());
             
         }
         if (Greenfoot.isKeyDown("up")) {
-            setLocation(getX(), getY() - 8); 
+            setLocation(getX(), getY() - 3); 
         }
         if (Greenfoot.isKeyDown("down")) {
-            setLocation(getX(), getY() + 8); 
+            setLocation(getX(), getY() + 3); 
         }
     }
 }
