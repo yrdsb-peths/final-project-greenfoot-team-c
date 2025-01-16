@@ -8,3 +8,5 @@
 
 [Start game]
 now, press the start button to start the game, and enjoy lose!
+
+Team C-team of Edward S, Jason L and Xin F
