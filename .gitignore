@@ -1,4 +1,0 @@
-git add -f *.ctxt project.greenfoot
-git commit -m "Greenfoot"
-git push
-
